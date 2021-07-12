@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Harmony Protocol** **Binance Smart Chain** **Axelar** **Akash Network** and more...
 - 👯 I’m looking to collaborate on **Blockchain** **Devops** **Python** **Ansbile** **Automation**
-- 📫 How to reach me: [Twitter](https://twitter.com/mirrormirage0)
+- 📫 How to reach me: [Twitter](https://twitter.com/mirrormirage0). Discord MirrorMirage#7492. [Telegram](https://t.me/MirrorMirage)
 - ⚡ Keybase: [Keybase](https://keybase.io/mirrormirage)
 
